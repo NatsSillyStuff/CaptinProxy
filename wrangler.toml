@@ -1,5 +1,6 @@
 name = "roblox-proxy"
 main = "index.js"
+compatibility_flags = [ "nodejs_compat" ]
 compatibility_date = "2025-03-04"
 
 # Fuck off Cloudflare
